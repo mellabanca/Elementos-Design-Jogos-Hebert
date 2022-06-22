@@ -1,0 +1,34 @@
+Elementos principais de design de jogos
+Gênio Quiz
+
+- Personagens:
+PC - O próprio jogador
+NPC - As próprias perguntas
+
+- Objetivo:
+Acertar 50 perguntas seguidas
+
+- Regras:
+O jogo tem 50 perguntas
+Você deve acertar as 50 perguntas seguidas, se errar, volta no começo
+Você deve pensar fora da caixinha
+Só existe uma resposta certa
+Cada fase tem sua regra
+
+- Equilíbrio:
+NÃO TEMOS
+Tem fase mais fácil e mais difícil
+
+- Adaptabilidade:
+Cada fase tem sua dificuldade,não necessariamente gradativa
+
+- Elementos de:
+Acaso: primeira vez na fase
+Habilidade: memória, todas as fases são sempre as mesmas
+
+- Feedback:
+Número da fase
+Pela zoeira da pergunta
+
+- História:
+Não se aplica

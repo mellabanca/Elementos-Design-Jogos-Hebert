@@ -1,0 +1,40 @@
+Elementos principais de design de jogos
+Jogo de corrida multiplayer
+
+- Personagens:
+PC (Playing Character): carro
+NPC (Non-Playing Character): moedas, obstáculos, gasolina
+
+- Objetivo:
+Chegar na linha final em primeiro lugar e com mais moedas
+
+- Regras:
+Se aperta as setas para cima/esquerda/direita, o carro de movimenta
+Se for andando, perde gasolina
+Se bater no obstáculo ou o no outro carro, perde vida
+Se pegar a gasolina, enche o combustível do carro
+O jogo começa quando os dois jogadores entram
+O jogo termina quando os jogadores passam a linha de chegada OU
+perdendo toda a gasolina OU perdendo toda a vida
+A pontuação aumenta quando a gente pega as moedas
+
+- Equilíbrio:
+Mais fácil: gasolina
+Mais difícil: obstáculos, colisão
+
+- Adaptabilidade:
+Não de aplica
+
+- Elementos de:
+Acaso: moedas, combustível e CARRO DO OPONENTE
+Habilidade: obstáculos
+
+- Feedback:
+Pontuação
+Moedas
+Nível do combustível e da vida
+
+- História:
+Dois jogadores ganharam na mega sena e apostam uma corrida para ver
+quem pega a maior parte do premio (quem pega mais moedas, ganha a
+maior parte do dinheiro)
